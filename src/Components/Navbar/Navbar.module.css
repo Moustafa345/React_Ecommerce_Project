@@ -1,0 +1,16 @@
+.navCartImg { 
+    width: 45px;
+    height: 30px;
+}
+
+.cartNumber {
+    position: absolute;
+    top: 25%;
+    left: 55%;
+    transform: translate(-50%,-50%);
+}
+
+.custom {
+    position: relative;
+    display: inline-block;
+}

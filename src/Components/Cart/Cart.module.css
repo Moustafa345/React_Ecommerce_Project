@@ -1,0 +1,19 @@
+.removeCart {
+    width: 150px;
+    height: 130px;
+    cursor: pointer;
+}
+
+.checkout {
+
+    height: 110px;
+    width: 230px;
+    cursor: pointer;
+}
+
+.cash {
+
+    height: 122px;
+    cursor: pointer;
+}
+
